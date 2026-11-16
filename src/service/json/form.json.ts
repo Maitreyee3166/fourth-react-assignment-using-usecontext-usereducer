@@ -1,0 +1,1 @@
+export const steps: string[] = ["Personal", "Address", "Review"];
